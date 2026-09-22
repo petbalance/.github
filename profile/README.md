@@ -28,10 +28,10 @@
 
 <table>
 <tr>
-<td width="25%" align="center"><img src="https://raw.githubusercontent.com/PetBalance/.github/main/profile/login-screen.svg" alt="petbalance 로그인 화면" /></td>
-<td width="25%" align="center"><img src="https://raw.githubusercontent.com/PetBalance/.github/main/profile/app-screen-v2.svg" alt="petbalance 급여조합 화면" /></td>
-<td width="25%" align="center"><img src="https://raw.githubusercontent.com/PetBalance/.github/main/profile/analysis-screen.svg" alt="petbalance 영양소 분석 화면" /></td>
-<td width="25%" align="center"><img src="https://raw.githubusercontent.com/PetBalance/.github/main/profile/shelter-screen-v2.svg" alt="petbalance 보호소 로스터 화면" /></td>
+<td width="25%" align="center"><img src="./login-screen.svg" alt="petbalance 로그인 화면" /></td>
+<td width="25%" align="center"><img src="./app-screen-v2.svg" alt="petbalance 급여조합 화면" /></td>
+<td width="25%" align="center"><img src="./analysis-screen.svg" alt="petbalance 영양소 분석 화면" /></td>
+<td width="25%" align="center"><img src="./shelter-screen-v2.svg" alt="petbalance 보호소 로스터 화면" /></td>
 </tr>
 <tr>
 <td align="center"><b>로그인</b><br />이메일 계정으로 시작합니다.</td>
