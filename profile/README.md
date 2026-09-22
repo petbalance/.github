@@ -1,4 +1,4 @@
-# 우애영
+# petbalance
 
 반려동물의 식단과 보호소 운영을 더 명확하고 안전하게 만드는 서비스를 만듭니다.
 
@@ -6,11 +6,11 @@
 
 | 서비스 | 용도 | 기술 |
 | --- | --- | --- |
-| **우애영 웹 앱** | 급여조합·영양소 분석 | React + Vite, FastAPI |
-| **우애영 설치형 앱** | 같은 화면을 데스크톱으로 패키징 | Electron, PyInstaller |
-| **우애영 Android 앱** | 배포된 웹 서비스에 연결하는 모바일 앱 | Capacitor, Android |
+| **petbalance 웹 앱** | 급여조합·영양소 분석 | React + Vite, FastAPI |
+| **petbalance 설치형 앱** | 같은 화면을 데스크톱으로 패키징 | Electron, PyInstaller |
+| **petbalance Android 앱** | 배포된 웹 서비스에 연결하는 모바일 앱 | Capacitor, Android |
 | **Spring Boot 백엔드** | 핵심 분석·인증·펫·제품·식단 API | Java, Spring Boot, SQLite |
-| **우애영 보호소** | 로스터·경고·급여표·재고·예산 | Next.js, Vercel, Neon Postgres |
+| **petbalance 보호소** | 로스터·경고·급여표·재고·예산 | Next.js, Vercel, Neon Postgres |
 
 ## 아키텍처
 
@@ -28,10 +28,10 @@
 
 <table>
 <tr>
-<td width="25%" align="center"><img src="https://raw.githubusercontent.com/WooAeyoung/.github/main/profile/login-screen.svg" alt="우애영 로그인 화면" /></td>
-<td width="25%" align="center"><img src="https://raw.githubusercontent.com/WooAeyoung/.github/main/profile/app-screen-v2.svg" alt="우애영 급여조합 화면" /></td>
-<td width="25%" align="center"><img src="https://raw.githubusercontent.com/WooAeyoung/.github/main/profile/analysis-screen.svg" alt="우애영 영양소 분석 화면" /></td>
-<td width="25%" align="center"><img src="https://raw.githubusercontent.com/WooAeyoung/.github/main/profile/shelter-screen-v2.svg" alt="우애영 보호소 로스터 화면" /></td>
+<td width="25%" align="center"><img src="https://raw.githubusercontent.com/PetBalance/.github/main/profile/login-screen.svg" alt="petbalance 로그인 화면" /></td>
+<td width="25%" align="center"><img src="https://raw.githubusercontent.com/PetBalance/.github/main/profile/app-screen-v2.svg" alt="petbalance 급여조합 화면" /></td>
+<td width="25%" align="center"><img src="https://raw.githubusercontent.com/PetBalance/.github/main/profile/analysis-screen.svg" alt="petbalance 영양소 분석 화면" /></td>
+<td width="25%" align="center"><img src="https://raw.githubusercontent.com/PetBalance/.github/main/profile/shelter-screen-v2.svg" alt="petbalance 보호소 로스터 화면" /></td>
 </tr>
 <tr>
 <td align="center"><b>로그인</b><br />이메일 계정으로 시작합니다.</td>
@@ -57,9 +57,9 @@
 
 ## 프로젝트
 
-- [우애영 GitHub 조직](https://github.com/WooAeyoung)
-- [전체 저장소 목록](https://github.com/orgs/WooAeyoung/repositories)
-- [우애영 소스 코드 — 웹·앱·백엔드](https://github.com/WooAeyoung/backend)
-- [프런트엔드 — React 웹·Android 앱](https://github.com/WooAeyoung/Frontend)
+- [petbalance GitHub 조직](https://github.com/PetBalance)
+- [전체 저장소 목록](https://github.com/orgs/PetBalance/repositories)
+- [petbalance 소스 코드 — 웹·앱·백엔드](https://github.com/petbalance/backend)
+- [프런트엔드 — React 웹·Android 앱](https://github.com/petbalance/Frontend)
 
 > 현재 영양 기준·제품·가격 데이터는 기능 검증용 데모입니다. 실제 급여 판단이나 수의학적 처방을 대체하지 않습니다.

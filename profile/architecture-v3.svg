@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1560" height="1180" viewBox="0 0 1560 1180" role="img" aria-labelledby="title desc">
-<title id="title">우애영 서비스 아키텍처</title>
+<title id="title">petbalance 서비스 아키텍처</title>
 <desc id="desc">개인용 React와 Electron 앱은 FastAPI를 이용하고 실행 환경에 따라 SQLite 또는 PostgreSQL에 저장합니다. Spring Boot는 별도 SQLite와 CSV를 사용하는 전환 검증 구현입니다. 보호소 Next.js 앱은 자체 API와 Neon PostgreSQL을 사용합니다. 세 영역 사이에 런타임 호출을 나타내는 연결선은 없습니다.</desc>
 <defs>
   <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 8 5 1 9" fill="none" stroke="#648078" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker>
@@ -16,8 +16,8 @@
   </style>
 </defs>
 <rect width="1560" height="1180" rx="28" fill="#f5f6f0"/>
-<text x="56" y="54" class="eyebrow" fill="#367864">WOOAEYOUNG / SYSTEM OVERVIEW</text>
-<text x="56" y="111" font-size="43" font-weight="700" fill="#153e36">우애영 서비스 아키텍처</text>
+<text x="56" y="54" class="eyebrow" fill="#367864">PETBALANCE / SYSTEM OVERVIEW</text>
+<text x="56" y="111" font-size="43" font-weight="700" fill="#153e36">petbalance 서비스 아키텍처</text>
 <text x="56" y="149" font-size="20" fill="#52685f">개인 식단 분석과 보호소 운영, 각 서비스의 실행 경계와 데이터 흐름</text>
 <rect x="1290" y="65" width="214" height="37" rx="18" fill="#e1ebe4"/>
 <text x="1397" y="90" text-anchor="middle" font-size="15" font-weight="700" fill="#376b58">현행 구조 · 전환 검증 구분</text>
